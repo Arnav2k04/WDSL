@@ -163,11 +163,12 @@ header.sticky{
     .btn{
         text-decoration: none;
     padding: 1rem;
-    background-color: rgb(111, 174, 230);
+    background-color: rgb(88, 153, 210);
+    
     border-radius: 50px;
     font-weight: 600;
     font-size: 30px;
-    color: rgb(243, 252, 180);
+    color: rgb(243, 251, 189);
     display: inline-block;
     cursor: pointer;
     position: absolute;
